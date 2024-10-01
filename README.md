@@ -3,13 +3,13 @@
 
 - 🌱 Estudando sobre **C#, .Net e tecnologias relacionadas**
 
-- 🤝 Colaboro com o projeto [W2PP (WYD) (Todos os créditos à JoyImpact)](https://github.com/Jean1dev/w2pp-OpenWYD)
+- 🤝 Colaboro com o projeto [W2PP (WYD)](https://github.com/Jean1dev/w2pp-OpenWYD) (Todos os créditos são reservados à JoyImpact)
 
 - 👨‍💻 Todos os meus projetos se encontram no [https://github.com/le1ec0](https://github.com/le1ec0)
 
 - 📫 Para falar comigo: **leandroizidoro@hotmail.com**
 
-- 📄 Meu CV [https://1drv.ms/b/s!AhKN-1eKJo1OmUEoQRNSwwEdgFQf?e=bLoEd5](https://1drv.ms/b/s!AhKN-1eKJo1OmUEoQRNSwwEdgFQf?e=bLoEd5)
+- 📄 [Meu CV](https://1drv.ms/b/s!AhKN-1eKJo1OmUE-uCmuDXpXkgL7?e=Lyimv1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
