@@ -9,7 +9,7 @@
 
 - 📫 Para falar comigo: **leandroizidoro@hotmail.com**
 
-- 📄 [Meu CV](https://1drv.ms/b/s!AhKN-1eKJo1OmUE-uCmuDXpXkgL7?e=Lyimv1)
+- 📄 [Meu CV](https://drive.google.com/file/d/1kqeJAJt2nsRmwvG12c5dyZoe46x8GnGa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
