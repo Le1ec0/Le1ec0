@@ -1,7 +1,8 @@
 <h1 align="center">Olá! Me chamo Leandro I. S.</h1>
-<h3 align="center">Desenvolvedor .Net C#</h3>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 
-- 🌱 Estudando sobre **C#, .Net e tecnologias relacionadas**
+- 🌱 Estudando backend sobre **C#, .Net e tecnologias relacionadas**
+- 🌱 Estudando frontend sobre **HTML, CSS e tecnologias relacionadas**
 
 - 🤝 Colaboro com o projeto [W2PP (WYD)](https://github.com/Jean1dev/w2pp-OpenWYD) (Todos os créditos são reservados à JoyImpact)
 
