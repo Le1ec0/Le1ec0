@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos os meus projetos se encontram no [https://github.com/le1ec0](https://github.com/le1ec0)
 
-- 📫 Para falar comigo: **leandroizidoro@hotmail.com**
+- 📫 Para falar comigo: **leandro.izidoro.santos@outlook.com**
 
 - 📄 [Meu CV](https://drive.google.com/file/d/1kqeJAJt2nsRmwvG12c5dyZoe46x8GnGa/view?usp=sharing)
 
