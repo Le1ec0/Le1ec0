@@ -10,7 +10,7 @@
 
 - 📫 Para falar comigo: **leandro.izidoro.santos@outlook.com**
 
-- 📄 [Meu CV](https://drive.google.com/file/d/1kqeJAJt2nsRmwvG12c5dyZoe46x8GnGa/view?usp=sharing)
+- 📄 [Meu CV](https://drive.google.com/file/d/1f8VJO4khhkwcrY4O1ssweO0x7ErPfKGG/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
